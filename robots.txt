@@ -1,0 +1,8 @@
+# robots.txt for Flash Deals
+User-agent: *
+Allow: /
+Sitemap: https://flash-deals-daily.github.io/sitemap.xml
+
+# Disallow any potential admin or private folders (if they exist)
+# Disallow: /private/
+# Disallow: /admin/
